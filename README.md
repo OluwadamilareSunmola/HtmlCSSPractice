@@ -2,7 +2,7 @@
 # Artwork Showcase Website 
 Overview
 
-A brief description of what this project does and who it's for
+A brief description of what this project does
 
 This project focuses on utilizing HTML and CSS to create an engaging and visually appealing online gallery.
 
