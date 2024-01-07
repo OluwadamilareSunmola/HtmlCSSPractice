@@ -16,4 +16,8 @@ https://fantastic-pastelito-e59fa7.netlify.app/
 
 Contributions While this is a basic project, contributions, suggestions, and feedback are always welcome. If you have ideas on how to improve the website or add more functionalities, feel free to fork this repository and create a pull request.
 
-## Contributing Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. ## License [MIT](https://choosealicense.com/licenses/mit/)
+## Contributing
+Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
